@@ -80,3 +80,7 @@ which one is good ? - option 01
 
 - **Optimized network paths: ** minimize latency by choosing the best routes for data transfer.
   For Example: use content delivery network to find out nearest possible servers.
+
+## MVC Architecture
+
+![MVC](/image/3.png)
