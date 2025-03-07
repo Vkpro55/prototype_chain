@@ -84,3 +84,7 @@ which one is good ? - option 01
 ## MVC Architecture
 
 ![MVC](/image/3.png)
+
+## Dry Run JS
+
+![MVC](/image/4.png)
